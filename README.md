@@ -2,7 +2,7 @@
 - 👀 I’m interested in building projects that are useful.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate with developers.
-- 📫 How to reach me contact me over my email : shrutirai220805@gmail.com
+
 
 
 <!---
